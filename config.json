@@ -1,7 +1,7 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
+  "prefix": "K!",
+  "token": "https://discord.com/api/oauth2/authorize?client_id=965630475169316966&permissions=8&scope=bot",
+  "owners": ["947185046798876752"],
   "footer": "NSFW Bot • is.gd/nsfwbot",
 
   "msg": {
